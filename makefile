@@ -14,4 +14,4 @@ build:
 	cd cmd/gocssinliner && xgo --targets=windows/amd64 .
 	docker-machine stop default
 
-.PHONY: deploy
+.PHONY: build
