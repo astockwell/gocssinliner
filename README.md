@@ -1,6 +1,6 @@
 gocssinliner
 ============
-Quick 'n dirty CLI to Campaign Monitor's [CSS inliner service](https://inliner.cm/).
+Quick 'n dirty CLI to Campaign Monitor's [CSS inliner service](https://inliner.cm/) for HTML emails.
 
 
 Usage
