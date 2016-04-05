@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/astockwell/css_inliner"
+	"github.com/astockwell/gocssinliner"
 )
 
 func main() {
