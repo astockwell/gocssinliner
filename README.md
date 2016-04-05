@@ -23,4 +23,4 @@ Build
 
 Credit
 ------
-Big thanks to [Campaign Monitor](https://www.campaignmonitor.com/) for maintaining their awesome [CSS inliner](https://inliner.cm/) service!
+Big thanks to [Campaign Monitor](https://www.campaignmonitor.com/) for maintaining their awesome [CSS inliner service](https://inliner.cm/)!
