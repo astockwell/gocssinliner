@@ -7,7 +7,7 @@ Usage
 -----
 `gocssinliner -i infile.html -o outfilename.html`
 
-(Requires internet access)
+Requires internet access. Use responsibly, as I'm sure the CM CSS inliner service will rate-limit you if you abuse.
 
 
 Install
