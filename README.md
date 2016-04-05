@@ -7,6 +7,8 @@ Usage
 -----
 `gocssinliner -i infile.html -o outfilename.html`
 
+(Requires internet access)
+
 
 Install
 -------
